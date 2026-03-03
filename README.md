@@ -114,8 +114,9 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Designed & Developed with 💙  
-By **You – The Future Creator**
+By Yash 
 
 ---
+
 
 # 🌍 “The Future Isn’t Coming… It’s Being Built.”
